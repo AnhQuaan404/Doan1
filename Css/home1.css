@@ -97,7 +97,7 @@
     width: 100%;
     height: 1350px;
     margin-top: 5%;
-    background-image: url(../images/Homeimg/newsletter-bg.png);
+    background-image: url(../images/Header/bground.png);
     border-radius: 10px;
 }
 
@@ -759,7 +759,7 @@ border-color: #ff5740;
     height: 550px;
     display: flex;
     /* background-color: #f2f2eb; */
-    background-image: url(../images/Homeimg/newsletter-bg.png);
+background-image: url(../images/Header/bground.png);
     padding-top: 30px;
 
 }

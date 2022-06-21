@@ -20,6 +20,7 @@
     z-index: 99;
     font-size: 18px;
     display: none;
+    scroll-behavior: smooth;
 }
 #myBtn:hover {
     background-color: #DE3241 ;
@@ -34,8 +35,8 @@
     width: 100%;
     margin: 0 auto;
     position: relative;
-    background-image:url(https:html.modernwebtemplates.com/lightbook/images/slide01.jpg)
-
+    background-image:url(../Images/Header/banner.jpg);
+/* https: html.modernwebtemplates.com/lightbook/images/slide01.jpg */
         
 }
 

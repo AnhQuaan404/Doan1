@@ -105,7 +105,8 @@ li #phone-number {
 .menu-bar {
    position: relative;
    top: 30%;
-   left: 0%;
+   left:5%;
+   
 }
 
 .menu-bar a {
@@ -219,6 +220,10 @@ li #phone-number {
     margin-left: 11px;
     margin-right: 16px;
     color: black;
+}
+.menu-bartemp a:hover{
+    transform:scale(1.5);
+    color:#ff5740;
 }
 
 /* thuộc tính chung  */

@@ -77,9 +77,9 @@
     transition: all 0.5s ease;
 }
 .title-banner button:hover {
-    background-color: red; 
+    background-color: #ff5740; 
     color: white; 
-    border:  2px solid black ; 
+    border:  2px solid #ff5740; ; 
 
 }
 
@@ -340,7 +340,7 @@ border-color: #ff5740;
 .thumb-reddown {
     display: flex;
     position: relative;
-    left: -1%;
+    left: 5%;
 }
 
 .thumbnail-readdown {
@@ -348,7 +348,7 @@ border-color: #ff5740;
     margin-left: 40px;
 }
 .thumbnail-readdown:hover{
-    transform: scale(1.1);
+    transform: scale(1.05);
     transition: all 0.7s ease;
 }
 
@@ -538,7 +538,7 @@ border-color: #ff5740;
     letter-spacing: 2px;
     font-style: normal;
     line-height: 21px;
-    box-shadow: 20px 1px 30px rgb(108, 105, 105);
+    /* box-shadow: 20px 1px 30px rgb(108, 105, 105); */
     transition : all 0.5s ; 
 }
 .button-dcv button:hover {
@@ -727,7 +727,7 @@ border-color: #ff5740;
 .info-author button:hover{
     background-color:#f77362;
     color: white;
-    border: 2px solid black ;
+    border: 2px solid #f77362 ;
 }
 
 .what-new {
@@ -855,15 +855,15 @@ p {
     left: 35%;
 }
 .price-left:hover{
-transform: scale(1.1);
+transform: scale(1.05);
     transition: all 0.7s ease;
 }
 .price-mid:hover{
-    transform: scale(1.1);
+transform: scale(1.05);
         transition: all 0.7s ease;
 }
 .price-right:hover{
-    transform: scale(1.1);
+transform: scale(1.05);
         transition: all 0.7s ease;
 }
 
@@ -1053,7 +1053,7 @@ p {
     border : 2px solid black; 
 }
 .collection-book:hover{
-    transform: scale(1.1);
+    transform: scale(1.05);
     transition: all 0.7s ease;}
 /*  test animation hovered */
 .thumnail-newrealese {

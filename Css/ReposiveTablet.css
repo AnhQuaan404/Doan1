@@ -103,6 +103,7 @@
         margin-left: 50px;
         position: absolute;
         top: 5%;
+       
     }
 
     .title-banner h1 {
@@ -195,6 +196,15 @@
         right: 10px;
         bottom: 10px;
     }
+    .price-show button {
+        width: 100px;
+         position: relative;
+         bottom:10%;
+    }
+        .price-right button{
+            position: relative;
+          top: 8%;
+        }
 
 }
 @media (max-width: 790px) {

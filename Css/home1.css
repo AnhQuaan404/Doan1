@@ -39,7 +39,9 @@
 /* https: html.modernwebtemplates.com/lightbook/images/slide01.jpg */
         
 }
-
+#img-book {
+    border-radius:30px;
+}
 
 .title-banner {
     

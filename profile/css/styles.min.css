@@ -82,6 +82,7 @@ h2 {
 h3 {
     font: 900 16px "Titillium Web",serif;
     letter-spacing: 1.5px;
+    font-size: 20px;
 }
 .portfolio-filter ul li, .sidebar .nav li, h4 {
     letter-spacing: 1px;
@@ -453,6 +454,7 @@ button.mfp-close:hover {
 
     border-radius: 20px;
     margin-bottom: 50px;
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(234, 249, 249, 0.67) 0.1%, rgba(239, 249, 251, 0.63) 90.1%);
    
 
 }
@@ -475,6 +477,10 @@ padding-left: 3px;
    padding-right: 2%;
        
        
+}
+.icon-img i:hover {
+    color:rgb(228, 69, 69);
+    transform:scale(1.5);
 }
 .comment-img{
  padding-top: 10px;
